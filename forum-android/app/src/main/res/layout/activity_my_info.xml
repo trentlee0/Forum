@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey_100"
+    tools:context=".ui.user.UserInfoActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/green_500"
+        app:navigationIcon="@drawable/ic_back"
+        app:subtitleTextColor="@color/white"
+        app:titleTextColor="@color/white" />
+
+
+    <RelativeLayout
+        android:id="@+id/rl_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar_head"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/iv_avatar_bg"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/grey_100"
+            android:src="@drawable/avatar" />
+
+        <LinearLayout
+            android:id="@+id/ll_user_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/iv_avatar_bg"
+            android:orientation="vertical"
+            android:paddingHorizontal="25dp"
+            android:translationY="-30dp">
+
+            <ImageView
+                android:id="@+id/iv_avatar_icon"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/avatar" />
+
+            <TextView
+                android:id="@+id/tv_username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="username"
+                android:textColor="@color/black"
+                android:textSize="26sp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_birthday"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="出生日期" />
+
+                <TextView
+                    android:id="@+id/tv_gender"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="30dp"
+                    android:text="性别" />
+
+                <TextView
+                    android:id="@+id/tv_ugrade"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="30dp"
+                    android:text="类型" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/rl_container"
+        android:layout_marginHorizontal="20dp"
+        android:background="@color/grey_100"
+        android:translationY="-10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/rl_container"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginStart="20dp"
+            app:tabIndicatorHeight="1dp" />
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingHorizontal="15dp" />
+    </LinearLayout>
+
+</RelativeLayout>

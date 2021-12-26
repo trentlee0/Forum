@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="forum.dao.PostMapper">
+    <insert id="addPost">
+        insert into Post(u_id, plate_id, post_name, create_datetime, recycle, content, update_datetime)
+        values (#{uId}, #{plateId}, #{postName}, #{createDatetime}, false, #{content}, #{createDatetime});
+    </insert>
+
+    <update id="updatePost">
+        update Post
+        set post_name       = #{postName},
+            recycle         = #{recycle},
+            content         = #{content},
+            update_datetime = #{updateDatetime}
+        where post_id = #{postId};
+    </update>
+    <delete id="deleteByPId">
+        delete
+        from Post
+        where post_id = #{postId}
+    </delete>
+
+    <select id="getPost" resultMap="PostRespMap">
+        select *
+        from Post
+        where post_id = #{postId}
+    </select>
+
+    <select id="queryAllPosts" resultMap="PostRespMap">
+        select *
+        from Post
+    </select>
+
+    <select id="queryPostsByUId" resultMap="PostRespMap">
+        select *
+        from Post
+        where u_id = #{uId}
+    </select>
+
+    <select id="queryPostsByPId" resultMap="PostRespMap">
+        select post_id,
+               plate_id,
+               post_name,
+               create_datetime,
+               recycle,
+               content,
+               update_datetime,
+               u_id
+        from Post
+        where plate_id = #{plateId}
+        order by update_datetime desc
+    </select>
+
+    <resultMap id="PostRespMap" type="forum.pojo.resp.PostResp">
+        <result property="postId" column="post_id"/>
+        <result property="content" column="content"/>
+        <result property="postName" column="post_name"/>
+        <result property="createDatetime" column="create_datetime"/>
+        <result property="updateDatetime" column="update_datetime"/>
+        <association property="plate" column="plate_id" select="forum.dao.PlateMapper.getPlateById"/>
+        <association property="user" column="u_id" select="forum.dao.UserMapper.getUserById"/>
+    </resultMap>
+
+    <select id="getCountByPId" resultType="java.lang.Long">
+        select count(*)
+        from Post
+        where plate_id = #{plateId}
+    </select>
+
+    <select id="search" resultMap="PostRespMap">
+        select *
+        from Post
+        where post_name like "%"#{postName}"%"
+    </select>
+</mapper>

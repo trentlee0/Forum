@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey_100"
+    android:orientation="vertical"
+    tools:context=".ui.SettingActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/green_500"
+        app:navigationIcon="@drawable/ic_back"
+        app:subtitleTextColor="@color/white"
+        app:title="设置"
+        app:titleTextColor="@color/white" />
+
+    <TextView
+        android:id="@+id/btn_update_user"
+        style="@style/InfoTextViewButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:text="修改个人信息" />
+
+    <TextView
+        android:id="@+id/btn_logout"
+        style="@style/InfoTextViewButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@color/white"
+        android:drawableEnd="@null"
+        android:gravity="center"
+        android:text="注销"
+        android:textColor="@color/red_500" />
+
+</LinearLayout>

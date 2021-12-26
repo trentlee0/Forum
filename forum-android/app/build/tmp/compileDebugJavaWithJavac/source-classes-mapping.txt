@@ -1,0 +1,211 @@
+com/example/forum/databinding/ActivityMyPlatePostBinding.java
+ com.example.forum.databinding.ActivityMyPlatePostBinding
+com/example/forum/model/dto/UserDTO.java
+ com.example.forum.model.dto.UserDTO
+com/example/forum/databinding/FragmentPlateBinding.java
+ com.example.forum.databinding.FragmentPlateBinding
+com/example/forum/databinding/FooterBinding.java
+ com.example.forum.databinding.FooterBinding
+com/example/forum/databinding/FragmentMyBinding.java
+ com.example.forum.databinding.FragmentMyBinding
+com/example/forum/databinding/FragmentHomeBinding.java
+ com.example.forum.databinding.FragmentHomeBinding
+com/example/forum/util/MessageUtil.java
+ com.example.forum.util.MessageUtil
+com/example/forum/model/pojo/User.java
+ com.example.forum.model.pojo.User
+com/example/forum/database/UserDatabase.java
+ com.example.forum.database.UserDatabase
+com/example/forum/util/NetworkUtil.java
+ com.example.forum.util.NetworkUtil
+com/example/forum/util/LogUtil.java
+ com.example.forum.util.LogUtil
+com/example/forum/databinding/ActivityMyPlateBinding.java
+ com.example.forum.databinding.ActivityMyPlateBinding
+com/example/forum/databinding/PostItemBinding.java
+ com.example.forum.databinding.PostItemBinding
+com/example/forum/ui/SplashActivity.java
+ com.example.forum.ui.SplashActivity
+com/example/forum/util/JsonUtil.java
+ com.example.forum.util.JsonUtil
+com/example/forum/util/InputMethodUtil.java
+ com.example.forum.util.InputMethodUtil
+com/example/forum/databinding/FragmentSearchBinding.java
+ com.example.forum.databinding.FragmentSearchBinding
+com/example/forum/util/StatusBarUtil.java
+ com.example.forum.util.StatusBarUtil
+com/example/forum/model/dto/ImageDTO.java
+ com.example.forum.model.dto.ImageDTO
+com/example/forum/databinding/FragmentUserPostBinding.java
+ com.example.forum.databinding.FragmentUserPostBinding
+com/example/forum/adapter/FooterHolder.java
+ com.example.forum.adapter.FooterHolder
+ com.example.forum.adapter.FooterHolder$1
+ com.example.forum.adapter.FooterHolder$FooterStatus
+com/example/forum/ui/MainActivity.java
+ com.example.forum.ui.MainActivity
+ com.example.forum.ui.MainActivity$1
+ com.example.forum.ui.MainActivity$NetworkReceiver
+com/example/forum/model/vo/PaginationVO.java
+ com.example.forum.model.vo.PaginationVO
+com/example/forum/database/PlateDatabase.java
+ com.example.forum.database.PlateDatabase
+com/example/forum/databinding/ActivityMainBinding.java
+ com.example.forum.databinding.ActivityMainBinding
+com/example/forum/model/dto/VideoDTO.java
+ com.example.forum.model.dto.VideoDTO
+com/example/forum/util/UserUtil.java
+ com.example.forum.util.UserUtil
+com/example/forum/databinding/MyPostItemBinding.java
+ com.example.forum.databinding.MyPostItemBinding
+com/example/forum/adapter/PostRecyclerAdapter.java
+ com.example.forum.adapter.PostRecyclerAdapter
+ com.example.forum.adapter.PostRecyclerAdapter$ItemHolder
+com/example/forum/databinding/ActivityUpdateUserBinding.java
+ com.example.forum.databinding.ActivityUpdateUserBinding
+com/example/forum/databinding/ActivitySettingBinding.java
+ com.example.forum.databinding.ActivitySettingBinding
+com/example/forum/model/vo/UserVO.java
+ com.example.forum.model.vo.UserVO
+com/example/forum/ui/home/HomeFragment.java
+ com.example.forum.ui.home.HomeFragment
+ com.example.forum.ui.home.HomeFragment$PagerAdapter
+com/example/forum/util/ListViewUtil.java
+ com.example.forum.util.ListViewUtil
+com/example/forum/databinding/ActivityPostBinding.java
+ com.example.forum.databinding.ActivityPostBinding
+com/example/forum/databinding/FragmentBlankBinding.java
+ com.example.forum.databinding.FragmentBlankBinding
+com/example/forum/databinding/ActivitySplashBinding.java
+ com.example.forum.databinding.ActivitySplashBinding
+com/example/forum/request/callback/ThenJson.java
+ com.example.forum.request.callback.ThenJson
+com/example/forum/databinding/ActivityPostEditorBinding.java
+ com.example.forum.databinding.ActivityPostEditorBinding
+com/example/forum/request/callback/AbstractCallback.java
+ com.example.forum.request.callback.AbstractCallback
+com/example/forum/util/HttpUtil.java
+ com.example.forum.util.HttpUtil
+com/example/forum/model/pojo/Plate.java
+ com.example.forum.model.pojo.Plate
+com/example/forum/model/dto/CommentDTO.java
+ com.example.forum.model.dto.CommentDTO
+com/example/forum/databinding/ActivityPlatePostBinding.java
+ com.example.forum.databinding.ActivityPlatePostBinding
+com/example/forum/dao/UserDao.java
+ com.example.forum.dao.UserDao
+com/example/forum/model/dto/PostDTO.java
+ com.example.forum.model.dto.PostDTO
+com/example/forum/databinding/PlateItemBinding.java
+ com.example.forum.databinding.PlateItemBinding
+com/example/forum/databinding/MyPlateItemBinding.java
+ com.example.forum.databinding.MyPlateItemBinding
+com/example/forum/ui/user/moderator/MyPlateBaseAdapter.java
+ com.example.forum.ui.user.moderator.MyPlateBaseAdapter
+ com.example.forum.ui.user.moderator.MyPlateBaseAdapter$ViewHolder
+com/example/forum/databinding/ActivityLoginBinding.java
+ com.example.forum.databinding.ActivityLoginBinding
+com/example/forum/util/StringUtil.java
+ com.example.forum.util.StringUtil
+com/example/forum/util/NotificationUtil.java
+ com.example.forum.util.NotificationUtil
+com/example/forum/request/callback/Then.java
+ com.example.forum.request.callback.Then
+com/example/forum/view/MyImageButton.java
+ com.example.forum.view.MyImageButton
+com/example/forum/dao/PlateDao.java
+ com.example.forum.dao.PlateDao
+com/example/forum/ui/home/PostFragment.java
+ com.example.forum.ui.home.PostFragment
+ com.example.forum.ui.home.PostFragment$1
+ com.example.forum.ui.home.PostFragment$2
+com/example/forum/util/FileUtil.java
+ com.example.forum.util.FileUtil
+com/example/forum/databinding/PlateItemSelectBinding.java
+ com.example.forum.databinding.PlateItemSelectBinding
+com/example/forum/util/DateUtil.java
+ com.example.forum.util.DateUtil
+com/example/forum/databinding/ActivityMyPostBinding.java
+ com.example.forum.databinding.ActivityMyPostBinding
+com/example/forum/adapter/CommentBaseAdapter.java
+ com.example.forum.adapter.CommentBaseAdapter
+ com.example.forum.adapter.CommentBaseAdapter$ViewHolder
+com/example/forum/BuildConfig.java
+ com.example.forum.BuildConfig
+com/example/forum/request/callback/Catch.java
+ com.example.forum.request.callback.Catch
+com/example/forum/view/NoScrollWebView.java
+ com.example.forum.view.NoScrollWebView
+com/example/forum/util/PermissionUtil.java
+ com.example.forum.util.PermissionUtil
+com/example/forum/ui/my/MyFragment.java
+ com.example.forum.ui.my.MyFragment
+com/example/forum/request/callback/ResponseResult.java
+ com.example.forum.request.callback.ResponseResult
+com/example/forum/databinding/ActivityMyInfoBinding.java
+ com.example.forum.databinding.ActivityMyInfoBinding
+com/example/forum/databinding/ActivityRegisterBinding.java
+ com.example.forum.databinding.ActivityRegisterBinding
+com/example/forum/MyApplication.java
+ com.example.forum.MyApplication
+com/example/forum/databinding/CommentItemBinding.java
+ com.example.forum.databinding.CommentItemBinding
+com/example/forum/databinding/FragmentPostBinding.java
+ com.example.forum.databinding.FragmentPostBinding
+com/example/forum/util/ToastUtil.java
+ com.example.forum.util.ToastUtil
+com/example/forum/ui/RegisterActivity.java
+ com.example.forum.ui.RegisterActivity
+ com.example.forum.ui.RegisterActivity$1
+com/example/forum/ui/user/MyPostActivity.java
+ com.example.forum.ui.user.MyPostActivity
+ com.example.forum.ui.user.MyPostActivity$1
+ com.example.forum.ui.user.MyPostActivity$2
+com/example/forum/ui/user/UpdateUserActivity.java
+ com.example.forum.ui.user.UpdateUserActivity
+ com.example.forum.ui.user.UpdateUserActivity$1
+ com.example.forum.ui.user.UpdateUserActivity$2
+com/example/forum/ui/post/PostEditorActivity.java
+ com.example.forum.ui.post.PostEditorActivity
+ com.example.forum.ui.post.PostEditorActivity$1
+ com.example.forum.ui.post.PostEditorActivity$1$1
+com/example/forum/ui/user/UserInfoActivity.java
+ com.example.forum.ui.user.UserInfoActivity
+ com.example.forum.ui.user.UserInfoActivity$1
+ com.example.forum.ui.user.UserInfoActivity$PagerAdapter
+com/example/forum/ui/search/SearchFragment.java
+ com.example.forum.ui.search.SearchFragment
+ com.example.forum.ui.search.SearchFragment$1
+ com.example.forum.ui.search.SearchFragment$2
+ com.example.forum.ui.search.SearchFragment$3
+com/example/forum/ui/SettingActivity.java
+ com.example.forum.ui.SettingActivity
+ com.example.forum.ui.SettingActivity$1
+ com.example.forum.ui.SettingActivity$2
+com/example/forum/ui/post/PostActivity.java
+ com.example.forum.ui.post.PostActivity
+ com.example.forum.ui.post.PostActivity$1
+com/example/forum/ui/LoginActivity.java
+ com.example.forum.ui.LoginActivity
+ com.example.forum.ui.LoginActivity$1
+com/example/forum/ui/user/UserPostFragment.java
+ com.example.forum.ui.user.UserPostFragment
+ com.example.forum.ui.user.UserPostFragment$1
+com/example/forum/request/Requests.java
+ com.example.forum.request.Requests
+com/example/forum/ui/user/moderator/MyPlateActivity.java
+ com.example.forum.ui.user.moderator.MyPlateActivity
+ com.example.forum.ui.user.moderator.MyPlateActivity$1
+com/example/forum/adapter/MyPostRecyclerAdapter.java
+ com.example.forum.adapter.MyPostRecyclerAdapter
+ com.example.forum.adapter.MyPostRecyclerAdapter$ItemHolder
+com/example/forum/ui/home/PlateFragment.java
+ com.example.forum.ui.home.PlateFragment
+ com.example.forum.ui.home.PlateFragment$1
+com/example/forum/adapter/PlateBaseAdapter.java
+ com.example.forum.adapter.PlateBaseAdapter
+ com.example.forum.adapter.PlateBaseAdapter$ViewHolder
+com/example/forum/ui/post/PlatePostActivity.java
+ com.example.forum.ui.post.PlatePostActivity
+ com.example.forum.ui.post.PlatePostActivity$1
+ com.example.forum.ui.post.PlatePostActivity$2

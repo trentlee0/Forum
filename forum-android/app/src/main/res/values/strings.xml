@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Forum</string>
+    <string name="title_home">主页</string>
+    <string name="title_search">搜索</string>
+    <string name="title_my">我</string>
+    <string-array name="color_items">
+        <item>红</item>
+        <item>黄</item>
+        <item>绿</item>
+        <item>蓝</item>
+        <item>黑</item>
+    </string-array>
+    <string-array name="text_back_color_items">
+        <item>红</item>
+        <item>黄</item>
+        <item>绿</item>
+        <item>蓝</item>
+        <item>黑</item>
+        <item>透明</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

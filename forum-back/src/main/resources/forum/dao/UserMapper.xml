@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="forum.dao.UserMapper">
+    <insert id="addUser">
+        insert into User(u_name, u_pass, u_grade, u_gender, available)
+        values (#{uName}, #{uPass}, 1, 0, true)
+    </insert>
+
+    <update id="updateUserByUserReq" parameterType="forum.pojo.req.UserReq">
+        update User
+        set
+        <if test="avatar != null">
+            avatar = #{avatar},
+        </if>
+        <if test="uPass != null">
+            u_pass = #{uPass},
+        </if>
+        <if test="uGender != null">
+            u_gender = #{uGender},
+        </if>
+        <if test="uBirthday != null">
+            u_birthday = #{uBirthday},
+        </if>
+        u_name = #{uName}
+        where u_id = #{uId}
+    </update>
+    <update id="updateUserAvatar">
+        update User
+        set avatar = #{avatar}
+        where u_id = #{uId}
+    </update>
+    <update id="updateUserAvailable">
+        update User
+        set available = #{available}
+        where u_id = #{uId}
+    </update>
+
+    <update id="updateUserGrade">
+        update User
+        set u_grade = #{userGrade}
+        where u_id = #{uId}
+    </update>
+
+    <select id="getUserById" resultMap="UserRespMap">
+        select *
+        from User
+        where u_id = #{uId}
+    </select>
+
+    <resultMap id="UserRespMap" type="forum.pojo.resp.UserResp">
+        <result property="uId" column="u_id"/>
+        <result property="uName" column="u_name"/>
+        <result property="uGrade" column="u_grade"/>
+        <result property="uGender" column="u_gender"/>
+        <result property="uBirthday" column="u_birthday"/>
+        <result property="avatar" column="avatar"/>
+        <result property="available" column="available"/>
+    </resultMap>
+
+    <select id="getUserByLogin" resultMap="UserRespMap">
+        select *
+        from User
+        where u_name = #{uName}
+          and u_pass = #{uPass}
+    </select>
+
+    <select id="getUserByName" resultMap="UserRespMap">
+        select *
+        from User
+        where u_name = #{uName}
+    </select>
+
+    <select id="queryAll" resultMap="UserRespMap">
+        select *
+        from User
+        where u_grade != 3
+    </select>
+</mapper>

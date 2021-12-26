@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="forum.dao.ApplyMapper">
+    <insert id="addApply">
+        insert into Apply(u_id, text, dispose)
+        values (#{uId}, #{text}, false)
+    </insert>
+
+    <update id="updateDispose">
+        update Apply
+        set dispose = #{dispose}
+        where a_id = #{aId}
+    </update>
+
+    <select id="queryByUId" resultType="forum.pojo.Apply">
+        select *
+        from Apply
+        where u_id = #{uId}
+    </select>
+
+    <select id="queryAll" resultType="forum.pojo.Apply">
+        select *
+        from Apply
+    </select>
+
+</mapper>

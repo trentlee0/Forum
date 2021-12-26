@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="forum.dao.ReplyCommentMapper">
+    <insert id="addReplyComment">
+        insert into ReplyComment(text, u_id, c_id, publish_datetime)
+        values (#{text}, #{uId}, #{cId}, #{publishDatetime})
+    </insert>
+
+    <update id="updateReplyComment">
+        update ReplyComment
+        set text             = #{text},
+            publish_datetime = #{publishDatetime}
+        where rc_id = #{rcId}
+    </update>
+
+    <delete id="deleteComment">
+        delete
+        from ReplyComment
+        where rc_id = #{rcId}
+    </delete>
+
+    <select id="getReplyCommentById" resultType="forum.pojo.ReplyComment">
+        select *
+        from ReplyComment
+        where rc_id = #{rcId}
+    </select>
+
+    <select id="queryReplyCommentsByCId" resultMap="ReplyCommentRespMap">
+        select rc_id, text, rc.u_id as u_id, c_id, publish_datetime, u_name
+        from ReplyComment rc,
+             User u
+        where c_id = #{cId}
+    </select>
+
+    <resultMap id="ReplyCommentRespMap" type="forum.pojo.resp.ReplyCommentResp">
+        <result property="rcId" column="rc_id"/>
+        <result property="text" column="text"/>
+        <result property="publishDatetime" column="publish_datetime"/>
+        <result property="uId" column="u_id"/>
+        <association property="user" column="c_id" select="forum.dao.UserMapper.getUserById"/>
+    </resultMap>
+</mapper>

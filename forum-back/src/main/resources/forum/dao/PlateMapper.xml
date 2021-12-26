@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="forum.dao.PlateMapper">
+    <insert id="addPlate">
+        insert into Plate(p_name, u_id)
+        values (#{pName}, #{uId})
+    </insert>
+
+    <update id="updatePlate">
+        update Plate
+        set p_name = #{pName},
+            u_id   = #{uId}
+        where p_id = #{pId}
+    </update>
+
+    <delete id="deletePlate">
+        delete
+        from Plate
+        where p_id = #{plateId}
+    </delete>
+
+    <select id="getPlateById" resultType="forum.pojo.Plate">
+        select *
+        from Plate
+        where p_id = #{pId}
+    </select>
+
+    <select id="queryAllPlates" resultMap="PlateRespMap">
+        select *
+        from Plate
+    </select>
+
+    <select id="getPlateByUId" resultType="forum.pojo.Plate">
+        select *
+        from Plate
+        where u_id = #{uId}
+    </select>
+
+    <resultMap id="PlateRespMap" type="forum.pojo.resp.PlateResp">
+        <result property="uId" column="u_id"/>
+        <result property="pId" column="p_id"/>
+        <result property="pName" column="p_name"/>
+        <association property="count" column="p_id" select="forum.dao.PostMapper.getCountByPId"/>
+    </resultMap>
+</mapper>

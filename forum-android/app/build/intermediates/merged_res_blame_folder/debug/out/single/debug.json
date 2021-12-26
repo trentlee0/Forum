@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_insert_link.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/insert_link.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/menu_update_user_menu.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/menu/update_user_menu.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_thumb_up_active.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/ic_thumb_up_active.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_send.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-mdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_bg_color.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/bg_color.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_italic.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/italic.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_post.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_post.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_video.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/video.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_post_item.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/post_item.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_h3.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/h3.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_indent.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/indent.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_icon_logo.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxxhdpi/icon_logo.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_h4.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/h4.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_font.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/font.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_justify_center.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/justify_center.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_outdent.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/outdent.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable_delete_btn.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable/delete_btn.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_add.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-anydpi/ic_add.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_right_arrow.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-anydpi/ic_right_arrow.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable_search_edit_text.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable/search_edit_text.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_update_user.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_update_user.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_save.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xhdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_my_plate_item.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/my_plate_item.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_plate_item.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/plate_item.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_icon.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_fragment_blank.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/fragment_blank.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_register.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_h5.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/h5.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_thumb_up_active.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xhdpi/ic_thumb_up_active.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_fragment_user_post.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/fragment_user_post.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_back.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-hdpi/ic_back.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_save.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_send.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-anydpi/ic_send.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_insert_image.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/insert_image.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-v24_button_text_view.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-v24/button_text_view.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_fragment_plate.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/fragment_plate.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_bg.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/bg.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-v24_input_edit_text.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-v24/input_edit_text.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_icon.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_search.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-anydpi/ic_search.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_justify_left.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/justify_left.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_right_arrow.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-hdpi/ic_right_arrow.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_my_info.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_my_info.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_h2.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/h2.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_right_arrow.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xhdpi/ic_right_arrow.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_fragment_my.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/fragment_my.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_plate_item_select.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/plate_item_select.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_save.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-anydpi/ic_save.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_send.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_right_arrow.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-mdpi/ic_right_arrow.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-mdpi_icon.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_justify_right.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/justify_right.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_post_editor.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_post_editor.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_thumb_up_active.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-mdpi/ic_thumb_up_active.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_back.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xhdpi/ic_back.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_my_plate.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_my_plate.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_thumb_up.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-hdpi/ic_thumb_up.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/menu_post_editor_menu.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/menu/post_editor_menu.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_html_edit.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/html_edit.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_thumb_up_active.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-anydpi/ic_thumb_up_active.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_back.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-anydpi/ic_back.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_my_post_item.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/my_post_item.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_thumb_up.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-anydpi/ic_thumb_up.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-v24_linearlayout_water_selector.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-v24/linearlayout_water_selector.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_strikethrough.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/strikethrough.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_txt_color.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/txt_color.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_setting.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_my_plate_post.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_my_plate_post.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_thumb_up.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/ic_thumb_up.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_fragment_post.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/fragment_post.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_icon.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable_delete_btn_radius.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable/delete_btn_radius.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_thumb_up.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xhdpi/ic_thumb_up.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xhdpi_icon.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_comment_item.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/comment_item.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_bold.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/bold.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_save.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-hdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_save.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-mdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_my_post.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_my_post.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable_cursor.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable/cursor.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_h1.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/h1.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_my.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-anydpi/ic_my.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_back.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/ic_back.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_thumb_up_active.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-hdpi/ic_thumb_up_active.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_send.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xhdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_fragment_search.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-v24_avatar.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-v24/avatar.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_footer.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/footer.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable_btn_press.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable/btn_press.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_back.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-mdpi/ic_back.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_plate_post.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_plate_post.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_bullets.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/bullets.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_numbers.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/numbers.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_right_arrow.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/ic_right_arrow.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_blockquote.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/blockquote.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_thumb_up.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-mdpi/ic_thumb_up.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_send.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-hdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_icon.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/trent/Desktop/Forum/forum-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_underline.png.flat",
+        "source": "/Users/trent/Desktop/Forum/forum-android/app/src/main/res/drawable-xxhdpi/underline.png"
+    }
+]

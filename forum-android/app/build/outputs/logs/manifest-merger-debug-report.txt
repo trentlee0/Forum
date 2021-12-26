@@ -1,0 +1,382 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:2:1-77:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/trent/.gradle/caches/transforms-3/314e1866fb012a7eb1eea66695bd9e77/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/trent/.gradle/caches/transforms-3/e8717e30bbc4cf00dfb30661685e96da/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/trent/.gradle/caches/transforms-3/e0a05b864296677e30f15ac728e43b8a/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/trent/.gradle/caches/transforms-3/5bc3f959ce93f12bdaaef6045615861e/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/trent/.gradle/caches/transforms-3/477702fc81d3f005fa164841f2c5d87c/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/trent/.gradle/caches/transforms-3/25613e7e3bd4997e86cff7503721e193/transformed/jetified-library-1.4.2/AndroidManifest.xml:6:1-16:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/trent/.gradle/caches/transforms-3/8190198988f5dc1a233e0c21b4a74ad8/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/trent/.gradle/caches/transforms-3/c3c33c4252dd9cc586da0e3463505208/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/trent/.gradle/caches/transforms-3/06a01ba7230ed0fddc8894df7c15910a/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/trent/.gradle/caches/transforms-3/30cd54daafe7a974d174a79718a8a305/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/trent/.gradle/caches/transforms-3/2893e729c5889eabb3500a137711c83e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/trent/.gradle/caches/transforms-3/8e7fd72d87e20ae04ebd28a5f9e79b11/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/trent/.gradle/caches/transforms-3/0ac7d7f022266338e36fa1983d838cd9/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.0-rc01] /Users/trent/.gradle/caches/transforms-3/80ef4c39b19e0762b4a36d9ec490c3b0/transformed/room-runtime-2.4.0-rc01/AndroidManifest.xml:17:1-31:12
+MERGED from [jp.wasabeef:richeditor-android:2.0.0] /Users/trent/.gradle/caches/transforms-3/c13541cd063b63bc2f053d00a848cd99/transformed/jetified-richeditor-android-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/trent/.gradle/caches/transforms-3/f7a790b43ccc091686aa5d911b00182b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trent/.gradle/caches/transforms-3/6b80c278120ff42ff6ece3f9d926c639/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/trent/.gradle/caches/transforms-3/129e5aec11ca482924b35f53b66ee551/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/trent/.gradle/caches/transforms-3/5a89849bfd38ecbffaf5b00436d2e3bd/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/trent/.gradle/caches/transforms-3/daf60890667c2c1f4f7951bda1ccd740/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/trent/.gradle/caches/transforms-3/f0fe3706260b3bce929f3dd639e33b7e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/trent/.gradle/caches/transforms-3/de5a7dc1c81a89f7e31dc782229122df/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/trent/.gradle/caches/transforms-3/d8e35720d387af23b8661e2c3d29cdaa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/trent/.gradle/caches/transforms-3/d09ea9aedca029a896589844b66e8851/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/trent/.gradle/caches/transforms-3/52fb237ed2f0e1c9dfcf66f13709a011/transformed/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/trent/.gradle/caches/transforms-3/36589ee1dec5dc1a87b02da8f52b81e9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/trent/.gradle/caches/transforms-3/e9d115718a858be0eda057f252f1b66e/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/trent/.gradle/caches/transforms-3/b4790aa1caca6e7d9bde0bf1adfc442a/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trent/.gradle/caches/transforms-3/780765cea0c567bec6ca8db99cd43cba/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/trent/.gradle/caches/transforms-3/058d6c0c5747b5b4ce36017fadd3626c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/trent/.gradle/caches/transforms-3/e5e0c0efed2f07eedef297bbad53835e/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/trent/.gradle/caches/transforms-3/d7d68196ec2a152fae1fbc3cdeb8417c/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/trent/.gradle/caches/transforms-3/22a51f44cdda660ee1b80324ead41660/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/trent/.gradle/caches/transforms-3/cc799678192709bceae81fa20a37187c/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/trent/.gradle/caches/transforms-3/187da96e77f680812e4b3603b7834520/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/trent/.gradle/caches/transforms-3/c970ab97bb5351b7da8839fd05c191b6/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/trent/.gradle/caches/transforms-3/83a3431e31b662cc777b151182ac4b30/transformed/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/trent/.gradle/caches/transforms-3/4666547609bee097a70e3acc6d3c3166/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/trent/.gradle/caches/transforms-3/d2d82602dbe4e040fb47b7f3d4ad9d83/transformed/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/trent/.gradle/caches/transforms-3/2ff40ce2f9d039dce4ff2518356734a1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/trent/.gradle/caches/transforms-3/9f2676b1c0969ec8c1ba6828bf396548/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trent/.gradle/caches/transforms-3/140757696eca7ec1efbdf7371a4acde0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-rc01] /Users/trent/.gradle/caches/transforms-3/955ff7aec166d885f3b2296e190dcffb/transformed/sqlite-framework-2.2.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0-rc01] /Users/trent/.gradle/caches/transforms-3/10140b289908d051d79dd40b45f4c322/transformed/sqlite-2.2.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/trent/.gradle/caches/transforms-3/6a89cfaaed05955963aeb21d73cc5745/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/trent/.gradle/caches/transforms-3/7fbeb7461dd2446c0752921646218aaa/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trent/.gradle/caches/transforms-3/82c537ca7208c5bdc129dab95faf4596/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/trent/.gradle/caches/transforms-3/910cda2ae865fbd3e3e28df704142905/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/trent/.gradle/caches/transforms-3/b4d3fb82417a084cc7335b4b851ef601/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/trent/.gradle/caches/transforms-3/b4df7864670f88d5668dedcb24fe690f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/trent/.gradle/caches/transforms-3/a1b15eaaf08fb20dd8d722ca164b4b9c/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/trent/.gradle/caches/transforms-3/303841d5a01881781d7bcd0b9a1b8466/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/trent/.gradle/caches/transforms-3/b2409f7f7047d916fdb8ce5cd1855f71/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/trent/.gradle/caches/transforms-3/989dfec6fc7a4daefb140f0c011fcef1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/trent/.gradle/caches/transforms-3/8ca7186ef83368b8549809152ed428ce/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/trent/.gradle/caches/transforms-3/485578c608519582fc751ff2f7c88476/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] /Users/trent/.gradle/caches/transforms-3/a096a7a75dc19d08a04b397890609ebf/transformed/jetified-annotation-experimental-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:2:1-77:12
+		INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:2:1-77:12
+		INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:11:5-75:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/trent/.gradle/caches/transforms-3/e0a05b864296677e30f15ac728e43b8a/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/trent/.gradle/caches/transforms-3/e0a05b864296677e30f15ac728e43b8a/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/trent/.gradle/caches/transforms-3/5bc3f959ce93f12bdaaef6045615861e/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/trent/.gradle/caches/transforms-3/5bc3f959ce93f12bdaaef6045615861e/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/trent/.gradle/caches/transforms-3/477702fc81d3f005fa164841f2c5d87c/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/trent/.gradle/caches/transforms-3/477702fc81d3f005fa164841f2c5d87c/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:13:5-20
+MERGED from [androidx.room:room-runtime:2.4.0-rc01] /Users/trent/.gradle/caches/transforms-3/80ef4c39b19e0762b4a36d9ec490c3b0/transformed/room-runtime-2.4.0-rc01/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.0-rc01] /Users/trent/.gradle/caches/transforms-3/80ef4c39b19e0762b4a36d9ec490c3b0/transformed/room-runtime-2.4.0-rc01/AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/trent/.gradle/caches/transforms-3/f7a790b43ccc091686aa5d911b00182b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/trent/.gradle/caches/transforms-3/f7a790b43ccc091686aa5d911b00182b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/trent/.gradle/caches/transforms-3/d2d82602dbe4e040fb47b7f3d4ad9d83/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/trent/.gradle/caches/transforms-3/d2d82602dbe4e040fb47b7f3d4ad9d83/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/trent/.gradle/caches/transforms-3/6a89cfaaed05955963aeb21d73cc5745/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/trent/.gradle/caches/transforms-3/6a89cfaaed05955963aeb21d73cc5745/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trent/.gradle/caches/transforms-3/82c537ca7208c5bdc129dab95faf4596/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trent/.gradle/caches/transforms-3/82c537ca7208c5bdc129dab95faf4596/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/trent/.gradle/caches/transforms-3/d2d82602dbe4e040fb47b7f3d4ad9d83/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:14:9-36
+	android:allowBackup
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:18:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:12:9-38
+activity#com.example.forum.ui.user.UpdateUserActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:20:9-23:55
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:23:13-52
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:21:13-55
+activity#com.example.forum.ui.user.UserInfoActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:24:9-27:55
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:26:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:25:13-53
+activity#com.example.forum.ui.SettingActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:28:9-31:55
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:29:13-47
+activity#com.example.forum.ui.post.PostEditorActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:32:9-35:55
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:33:13-55
+activity#com.example.forum.ui.user.moderator.MyPlateActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:36:9-39:55
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:38:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:39:13-52
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:37:13-62
+activity#com.example.forum.ui.user.MyPostActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:40:9-43:55
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:42:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:41:13-51
+activity#com.example.forum.ui.post.PostActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:44:9-47:55
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:46:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:47:13-52
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:45:13-49
+activity#com.example.forum.ui.post.PlatePostActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:48:9-51:55
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:51:13-52
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:49:13-54
+activity#com.example.forum.ui.RegisterActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:52:9-55:55
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:54:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:55:13-52
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:53:13-48
+activity#com.example.forum.ui.LoginActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:56:9-59:55
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:58:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:59:13-52
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:57:13-45
+activity#com.example.forum.ui.MainActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:60:9-64:55
+	android:label
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:63:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:64:13-52
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:61:13-44
+activity#com.example.forum.ui.SplashActivity
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:65:9-74:20
+	android:exported
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:67:13-36
+	android:theme
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:68:13-61
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:66:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:69:13-73:29
+action#android.intent.action.MAIN
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:70:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml:72:27-74
+uses-sdk
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/trent/.gradle/caches/transforms-3/314e1866fb012a7eb1eea66695bd9e77/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/trent/.gradle/caches/transforms-3/314e1866fb012a7eb1eea66695bd9e77/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/trent/.gradle/caches/transforms-3/e8717e30bbc4cf00dfb30661685e96da/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/trent/.gradle/caches/transforms-3/e8717e30bbc4cf00dfb30661685e96da/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/trent/.gradle/caches/transforms-3/e0a05b864296677e30f15ac728e43b8a/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/trent/.gradle/caches/transforms-3/e0a05b864296677e30f15ac728e43b8a/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/trent/.gradle/caches/transforms-3/5bc3f959ce93f12bdaaef6045615861e/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/trent/.gradle/caches/transforms-3/5bc3f959ce93f12bdaaef6045615861e/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/trent/.gradle/caches/transforms-3/477702fc81d3f005fa164841f2c5d87c/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/trent/.gradle/caches/transforms-3/477702fc81d3f005fa164841f2c5d87c/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/trent/.gradle/caches/transforms-3/25613e7e3bd4997e86cff7503721e193/transformed/jetified-library-1.4.2/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/trent/.gradle/caches/transforms-3/25613e7e3bd4997e86cff7503721e193/transformed/jetified-library-1.4.2/AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/trent/.gradle/caches/transforms-3/8190198988f5dc1a233e0c21b4a74ad8/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/trent/.gradle/caches/transforms-3/8190198988f5dc1a233e0c21b4a74ad8/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/trent/.gradle/caches/transforms-3/c3c33c4252dd9cc586da0e3463505208/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/trent/.gradle/caches/transforms-3/c3c33c4252dd9cc586da0e3463505208/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/trent/.gradle/caches/transforms-3/06a01ba7230ed0fddc8894df7c15910a/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/trent/.gradle/caches/transforms-3/06a01ba7230ed0fddc8894df7c15910a/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/trent/.gradle/caches/transforms-3/30cd54daafe7a974d174a79718a8a305/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/trent/.gradle/caches/transforms-3/30cd54daafe7a974d174a79718a8a305/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/trent/.gradle/caches/transforms-3/2893e729c5889eabb3500a137711c83e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/trent/.gradle/caches/transforms-3/2893e729c5889eabb3500a137711c83e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/trent/.gradle/caches/transforms-3/8e7fd72d87e20ae04ebd28a5f9e79b11/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/trent/.gradle/caches/transforms-3/8e7fd72d87e20ae04ebd28a5f9e79b11/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/trent/.gradle/caches/transforms-3/0ac7d7f022266338e36fa1983d838cd9/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/trent/.gradle/caches/transforms-3/0ac7d7f022266338e36fa1983d838cd9/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0-rc01] /Users/trent/.gradle/caches/transforms-3/80ef4c39b19e0762b4a36d9ec490c3b0/transformed/room-runtime-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0-rc01] /Users/trent/.gradle/caches/transforms-3/80ef4c39b19e0762b4a36d9ec490c3b0/transformed/room-runtime-2.4.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [jp.wasabeef:richeditor-android:2.0.0] /Users/trent/.gradle/caches/transforms-3/c13541cd063b63bc2f053d00a848cd99/transformed/jetified-richeditor-android-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:richeditor-android:2.0.0] /Users/trent/.gradle/caches/transforms-3/c13541cd063b63bc2f053d00a848cd99/transformed/jetified-richeditor-android-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/trent/.gradle/caches/transforms-3/f7a790b43ccc091686aa5d911b00182b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/trent/.gradle/caches/transforms-3/f7a790b43ccc091686aa5d911b00182b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trent/.gradle/caches/transforms-3/6b80c278120ff42ff6ece3f9d926c639/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trent/.gradle/caches/transforms-3/6b80c278120ff42ff6ece3f9d926c639/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/trent/.gradle/caches/transforms-3/129e5aec11ca482924b35f53b66ee551/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/trent/.gradle/caches/transforms-3/129e5aec11ca482924b35f53b66ee551/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/trent/.gradle/caches/transforms-3/5a89849bfd38ecbffaf5b00436d2e3bd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/trent/.gradle/caches/transforms-3/5a89849bfd38ecbffaf5b00436d2e3bd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/trent/.gradle/caches/transforms-3/daf60890667c2c1f4f7951bda1ccd740/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/trent/.gradle/caches/transforms-3/daf60890667c2c1f4f7951bda1ccd740/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/trent/.gradle/caches/transforms-3/f0fe3706260b3bce929f3dd639e33b7e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/trent/.gradle/caches/transforms-3/f0fe3706260b3bce929f3dd639e33b7e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/trent/.gradle/caches/transforms-3/de5a7dc1c81a89f7e31dc782229122df/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/trent/.gradle/caches/transforms-3/de5a7dc1c81a89f7e31dc782229122df/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/trent/.gradle/caches/transforms-3/d8e35720d387af23b8661e2c3d29cdaa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/trent/.gradle/caches/transforms-3/d8e35720d387af23b8661e2c3d29cdaa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/trent/.gradle/caches/transforms-3/d09ea9aedca029a896589844b66e8851/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/trent/.gradle/caches/transforms-3/d09ea9aedca029a896589844b66e8851/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/trent/.gradle/caches/transforms-3/52fb237ed2f0e1c9dfcf66f13709a011/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/trent/.gradle/caches/transforms-3/52fb237ed2f0e1c9dfcf66f13709a011/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/trent/.gradle/caches/transforms-3/36589ee1dec5dc1a87b02da8f52b81e9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/trent/.gradle/caches/transforms-3/36589ee1dec5dc1a87b02da8f52b81e9/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/trent/.gradle/caches/transforms-3/e9d115718a858be0eda057f252f1b66e/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/trent/.gradle/caches/transforms-3/e9d115718a858be0eda057f252f1b66e/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/trent/.gradle/caches/transforms-3/b4790aa1caca6e7d9bde0bf1adfc442a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/trent/.gradle/caches/transforms-3/b4790aa1caca6e7d9bde0bf1adfc442a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trent/.gradle/caches/transforms-3/780765cea0c567bec6ca8db99cd43cba/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trent/.gradle/caches/transforms-3/780765cea0c567bec6ca8db99cd43cba/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/trent/.gradle/caches/transforms-3/058d6c0c5747b5b4ce36017fadd3626c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/trent/.gradle/caches/transforms-3/058d6c0c5747b5b4ce36017fadd3626c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/trent/.gradle/caches/transforms-3/e5e0c0efed2f07eedef297bbad53835e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/trent/.gradle/caches/transforms-3/e5e0c0efed2f07eedef297bbad53835e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/trent/.gradle/caches/transforms-3/d7d68196ec2a152fae1fbc3cdeb8417c/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/trent/.gradle/caches/transforms-3/d7d68196ec2a152fae1fbc3cdeb8417c/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/trent/.gradle/caches/transforms-3/22a51f44cdda660ee1b80324ead41660/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/trent/.gradle/caches/transforms-3/22a51f44cdda660ee1b80324ead41660/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/trent/.gradle/caches/transforms-3/cc799678192709bceae81fa20a37187c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/trent/.gradle/caches/transforms-3/cc799678192709bceae81fa20a37187c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/trent/.gradle/caches/transforms-3/187da96e77f680812e4b3603b7834520/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/trent/.gradle/caches/transforms-3/187da96e77f680812e4b3603b7834520/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/trent/.gradle/caches/transforms-3/c970ab97bb5351b7da8839fd05c191b6/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/trent/.gradle/caches/transforms-3/c970ab97bb5351b7da8839fd05c191b6/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/trent/.gradle/caches/transforms-3/83a3431e31b662cc777b151182ac4b30/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/trent/.gradle/caches/transforms-3/83a3431e31b662cc777b151182ac4b30/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/trent/.gradle/caches/transforms-3/4666547609bee097a70e3acc6d3c3166/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/trent/.gradle/caches/transforms-3/4666547609bee097a70e3acc6d3c3166/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/trent/.gradle/caches/transforms-3/d2d82602dbe4e040fb47b7f3d4ad9d83/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/trent/.gradle/caches/transforms-3/d2d82602dbe4e040fb47b7f3d4ad9d83/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/trent/.gradle/caches/transforms-3/2ff40ce2f9d039dce4ff2518356734a1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/trent/.gradle/caches/transforms-3/2ff40ce2f9d039dce4ff2518356734a1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/trent/.gradle/caches/transforms-3/9f2676b1c0969ec8c1ba6828bf396548/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/trent/.gradle/caches/transforms-3/9f2676b1c0969ec8c1ba6828bf396548/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trent/.gradle/caches/transforms-3/140757696eca7ec1efbdf7371a4acde0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trent/.gradle/caches/transforms-3/140757696eca7ec1efbdf7371a4acde0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-rc01] /Users/trent/.gradle/caches/transforms-3/955ff7aec166d885f3b2296e190dcffb/transformed/sqlite-framework-2.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-rc01] /Users/trent/.gradle/caches/transforms-3/955ff7aec166d885f3b2296e190dcffb/transformed/sqlite-framework-2.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0-rc01] /Users/trent/.gradle/caches/transforms-3/10140b289908d051d79dd40b45f4c322/transformed/sqlite-2.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0-rc01] /Users/trent/.gradle/caches/transforms-3/10140b289908d051d79dd40b45f4c322/transformed/sqlite-2.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/trent/.gradle/caches/transforms-3/6a89cfaaed05955963aeb21d73cc5745/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/trent/.gradle/caches/transforms-3/6a89cfaaed05955963aeb21d73cc5745/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/trent/.gradle/caches/transforms-3/7fbeb7461dd2446c0752921646218aaa/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/trent/.gradle/caches/transforms-3/7fbeb7461dd2446c0752921646218aaa/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trent/.gradle/caches/transforms-3/82c537ca7208c5bdc129dab95faf4596/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trent/.gradle/caches/transforms-3/82c537ca7208c5bdc129dab95faf4596/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/trent/.gradle/caches/transforms-3/910cda2ae865fbd3e3e28df704142905/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/trent/.gradle/caches/transforms-3/910cda2ae865fbd3e3e28df704142905/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/trent/.gradle/caches/transforms-3/b4d3fb82417a084cc7335b4b851ef601/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/trent/.gradle/caches/transforms-3/b4d3fb82417a084cc7335b4b851ef601/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/trent/.gradle/caches/transforms-3/b4df7864670f88d5668dedcb24fe690f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/trent/.gradle/caches/transforms-3/b4df7864670f88d5668dedcb24fe690f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/trent/.gradle/caches/transforms-3/a1b15eaaf08fb20dd8d722ca164b4b9c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/trent/.gradle/caches/transforms-3/a1b15eaaf08fb20dd8d722ca164b4b9c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/trent/.gradle/caches/transforms-3/303841d5a01881781d7bcd0b9a1b8466/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/trent/.gradle/caches/transforms-3/303841d5a01881781d7bcd0b9a1b8466/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/trent/.gradle/caches/transforms-3/b2409f7f7047d916fdb8ce5cd1855f71/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/trent/.gradle/caches/transforms-3/b2409f7f7047d916fdb8ce5cd1855f71/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/trent/.gradle/caches/transforms-3/989dfec6fc7a4daefb140f0c011fcef1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/trent/.gradle/caches/transforms-3/989dfec6fc7a4daefb140f0c011fcef1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/trent/.gradle/caches/transforms-3/8ca7186ef83368b8549809152ed428ce/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/trent/.gradle/caches/transforms-3/8ca7186ef83368b8549809152ed428ce/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/trent/.gradle/caches/transforms-3/485578c608519582fc751ff2f7c88476/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/trent/.gradle/caches/transforms-3/485578c608519582fc751ff2f7c88476/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] /Users/trent/.gradle/caches/transforms-3/a096a7a75dc19d08a04b397890609ebf/transformed/jetified-annotation-experimental-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] /Users/trent/.gradle/caches/transforms-3/a096a7a75dc19d08a04b397890609ebf/transformed/jetified-annotation-experimental-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/trent/.gradle/caches/transforms-3/477702fc81d3f005fa164841f2c5d87c/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trent/Desktop/Forum/forum-android/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.0-rc01] /Users/trent/.gradle/caches/transforms-3/80ef4c39b19e0762b4a36d9ec490c3b0/transformed/room-runtime-2.4.0-rc01/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.0-rc01] /Users/trent/.gradle/caches/transforms-3/80ef4c39b19e0762b4a36d9ec490c3b0/transformed/room-runtime-2.4.0-rc01/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.0-rc01] /Users/trent/.gradle/caches/transforms-3/80ef4c39b19e0762b4a36d9ec490c3b0/transformed/room-runtime-2.4.0-rc01/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.0-rc01] /Users/trent/.gradle/caches/transforms-3/80ef4c39b19e0762b4a36d9ec490c3b0/transformed/room-runtime-2.4.0-rc01/AndroidManifest.xml:26:13-74
